@@ -1,0 +1,16 @@
+[
+{
+  "modid": "slimestonetools",
+  "name": "Slimestone Tools",
+  "description": "Help you design your contraptions!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/red-green/",
+  "updateUrl": "",
+  "authorList": ["DogetorHue"],
+  "credits": "I like dogs",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
